@@ -9,7 +9,7 @@ This is a simple Todo List application built using React and Bootstrap. The appl
 ## Installation
 Clone the repository:
 
-- git clone https://github.com/your-Vipinverma10/To-Do-List-app.git
+- git clone [https://github.com/your-Vipinverma10/To-Do-List-app.git](https://github.com/Vipinverma10/To-Do-List)
 - cd todo-list-app
 
 ## Install dependencies:
