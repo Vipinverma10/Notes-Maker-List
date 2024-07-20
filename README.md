@@ -9,7 +9,7 @@ This is a simple Notes Maker List application built using React and Bootstrap. T
 ## Installation
 Clone the repository:
 
-- git clone [https://github.com/your-Vipinverma10/To-Do-List-app.git]([https://github.com/Vipinverma10/To-Do-List](https://github.com/Vipinverma10/Notes-Maker-List))
+- git clone [https://github.com/Vipinverma10/Notes-Maker-List](https://github.com/Vipinverma10/Notes-Maker-List)
 - cd notes-maker-list-app
 
 ## Install dependencies:
